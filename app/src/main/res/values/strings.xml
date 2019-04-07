@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="facebook_app_id">1939672926126939</string>
+    <string name="fb_login_protocol_scheme">fb1939672926126939</string>
+
+    <!--Login Activity-->
+    <string name="LoginTittle">Ingreso al Sistema</string>
+    <string name="LoginTVUser">Usuario</string>
+    <string name="LoginTVPassword">Contraseña</string>
+    <string name="LoginBtnLogin">Ingresar</string>
+    <string name="LoginTstNoUsername">Por favor, digite su usuario</string>
+    <string name="LoginTstNoPassword">Por favor, digite su contraseña</string>
+    <string name="title_activity_index">Indice</string>
+    <string name="navigation_drawer_open">Abrir el navegador</string>
+    <string name="navigation_drawer_close">Cerrar el Navegador</string>
+    <string name="nav_header_title">Cliente</string>
+    <string name="nav_header_subtitle">correo@prueba.com</string>
+    <string name="nav_header_desc">Encabezado del navegador</string>
+    <string name="DrawerOptionsTitle">Opciones</string>
+    <string name="DrawerOptionLogout">Salir</string>
+    <string name="DrawerOptionConfig">Configuración</string>
+    <string name="OptionNoImplemented">¡Lo sentimos! La opción no está implementada aún.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="LogoutDialogMessage">¿Seguro que desea salir?</string>
+    <string name="LogoutDialogAcept">Salir</string>
+    <string name="LogoutDialogDecline">No</string>
+    <string name="CreateUser">Crear Usuario</string>
+    <string name="LoginTstFailed">Usuario o contraseña incorrecta...</string>
+    <string name="tvIdNumber">Cédula</string>
+    <string name="tvName">Nombre</string>
+    <string name="tvLastName">Apellido(s)</string>
+    <string name="tvPhone">Teléfono</string>
+    <string name="tvAddress">Dirección</string>
+    <string name="tvEmail">Correo</string>
+    <string name="tvDateOfBirth">Fecha de Nacimiento</string>
+    <string name="nextText">Siguiente</string>
+    <string name="tvConfirmPassword">Confirmar Contraseña</string>
+    <string name="personalInfoText">Información Personal</string>
+    <string name="completeFieldsMsg">Digite los datos solicitados</string>
+    <string name="passwordsNoMatch">Las contraseñas no coinciden</string>
+    <string name="userCreationText">Creación de Usuario</string>
+    <string name="somethingWentWrong">Algo ha salido mal. Intente la acción nuevamente.</string>
+    <string name="btnSettingsEdit">Editar</string>
+    <string name="btnSettingsSave">Guardar</string>
+    <string name="SettingsSaveSuccess">¡Se ha actualizado correctamente!</string>
+    <string name="SettingsSaveFailed">No se ha podido guardar la información. Por intente nuevamente...</string>
+    <string name="tvCurrentPassword">Contraseña Actual</string>
+    <string name="password_incorrect">La contraseña actual no es la correcta.</string>
+    <string name="tvNewPassword">Contraseña Nueva</string>
+    <string name="btnChangePassword">Cambiar Contraseña</string>
+    <string name="invalidDate">Fecha inválida</string>
+    <string name="invalidEmail">Correo inválido</string>
+    <string name="user_validation_title">Inicio de Sesión</string>
+    <string name="user_create_title">Creando Usuario</string>
+    <string name="user_update_title">Modificando Usuario</string>
+    <string name="user_validation_description">Estamos validando sus datos...</string>
+    <string name="DrawerOptionsPlace">Ver Sitios</string>
+    <string name="DrawerOptionsFavoritePlaces">Sitios Favoritos</string>
+    <string name="title_loading_data">Cargando Información</string>
+    <string name="description_loading_data">Por favor espere mientras cargamos los datos...</string>
+    <string name="tv_place_description">Descripción</string>
+    <string name="encenderGPS">Por favor encienda el GPS del dispositivo</string>
+    <string name="sinFavoritos">Estimado usuario, usted no posee sitios favoritos</string>
+    <string name="nuevoSitio">Nuevo Sitio</string>
+    <string name="waze" translatable="false">waze://?ll=%1$s&amp;navigate=yes</string>
+    <string name="sinConexion">No hay conexion de internet</string>
+    <string name="invalid_phone">Teléfono Inválido</string>
+    <string name="waze_not_install">Estimado usuario, la aplicación no está instalada.</string>
+    <string name="AddComment">Agregar Comentario</string>
+    <string name="add_comment_desc">Digite su comentario y presione la opción de agregar</string>
+    <string name="add">Agregar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="comments">Comentarios</string>
+    <string name="no_comments">Sin comentarios...</string>
+    <string name="share_location">Recomendar Sitio</string>
+    <string name="select_user">Seleccione el usuario deseado</string>
+    <string name="send_notification_success">Se ha notificado al usuario acerca de su recomendación.</string>
+
+</resources>
